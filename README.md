@@ -27,7 +27,7 @@ Desenvolver e aprimorar habilidades responsivas referentes ao css flexbox.
 
 ### Execução do projeto
 
-- Clonar o repositório clicando <a href="https://github.com/Nixoff/instagram-clone.git" style="text-decoration: none;" >aqui</a>;
+- Clonar o repositório clicando <a href="https://github.com/Nixoff/instagram-clone/archive/main.zip" style="text-decoration: none;" >aqui</a>;
 
 - Execute o index.html com o **Google Chrome** ou outro navegador de sua preferência;
 
