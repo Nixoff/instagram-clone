@@ -11,7 +11,6 @@ img {vertical-align: middle;}
   justify-content: center;
   width: 60%;
   height: 100vh;
-  margin-top: -76px;
   margin-left: -34px;
 }
 
@@ -150,9 +149,10 @@ img {vertical-align: middle;}
     }
   }
 
-  @media (max-width: 1024px) {
+  @media (min-width: 1024px) {
     .instragram-wraper{
       width: 90%;
+      margin-top: -76px;
     }
   }
 
