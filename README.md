@@ -8,7 +8,9 @@
 
 ### Objetivo:
 
-Desenvolver e aprimorar habilidades responsivas referentes ao css flexbox.
+Desenvolver e aprimorar habilidades responsivas referentes ao css flexbox clonando o instagram. 
+
+##### Deploy aqui [InstaClone](https://instaclone.ga/)
 
 ### Conhecimento necessario em:
 * [HTML básico](https://www.w3schools.com/html/)
